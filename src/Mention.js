@@ -41,7 +41,6 @@ Mention.propTypes = {
   allowSpaceInQuery: PropTypes.bool,
 
   isLoading: PropTypes.bool,
-
 }
 
 Mention.defaultProps = {
